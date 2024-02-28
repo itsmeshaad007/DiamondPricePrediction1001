@@ -22,6 +22,4 @@ setup(
     author_email= 'shadman.iitr@gmail.com',
     install_require = get_requirements('requirements.txt'),
     packages= find_packages()
-
-
 )
